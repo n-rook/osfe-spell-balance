@@ -8,13 +8,15 @@ Spells with higher rarity can be more powerful (though they don't have to be). I
 
 It costs time as well as mana to cast a spell. As such, Thunder is fine, but it would be inappropriate for "Quad Thunder" to deal 400 damage for 4 mana. Something like Ragnarok is better; it deals 350 damage and is higher rarity. However, you should get something for the extra mana: something like Thunderstorm, which does 75 damage per tile on average, is too weak in comparison to spells like Cold Snap or Anubis.
 
-This should be obvious from the name, but I'm not going to adjust the power of weapons or artifacts. Trust me, this is enough work as it is.
+This should be obvious from the name, but I'm not going to adjust the power of weapons or artifacts. Trust me, this is enough work as it is. I'm also not going to change the basic function of spells.
 
-## Damage numbers
+## Reasonable spells
+
+I'm honestly writing this for my own reference, so I have other spells to compare to.
 
 For single-square damage, a spell like Thunder or Revenge is the baseline: 100 damage for 1 mana.
 
-For AOE, 50 damage to all enemies is the baseline. Anubis is 70, but poison takes a long time to kick in.
+For AOE, 50 damage to all enemies for 1 mana is the baseline. Anubis is 70, but poison takes a long time to kick in.
 
 # The Changes
 
@@ -24,55 +26,83 @@ For AOE, 50 damage to all enemies is the baseline. Anubis is 70, but poison take
 
 #### Cold Medicine
 
-Cold Medicine costs 0, heals for 40 HP, and applies 2 frost stacks. This is 100 frost damage if the opponent is at full health, 60 otherwise, but with a big downside. This spell feels weak but I think it's not too terrible. Leaving it as is for now.
+**No change**
+
+Cold Medicine costs 0, heals for 40 HP, and applies 2 frost stacks. This is 100 frost damage if the opponent is at full health, 60 otherwise, but with a big downside. It feels a little weak but I'd rather not change it just yet.
 
 #### Firewall
 
-Damn this spell is good. 40 damage for 2 + 4 flames tiles. And it's easy to aim, too! At base, this is "180 damage if the enemy stands in the fire"; 180 damage in a line with significant downside (the enemy might just leave the line) would be fine at cost 2. But it scales with both fire artifacts and spellpower, as all fire spells do. Start by turning it down to 20 damage; this isn't a big deal but it will make a small difference.
+**40 -> 20 damage**
+
+Firewall is extremely strong. 2 mana, and you get 40 damage and 4 flame tiles. At base, this is 180 damage with a downside (some enemies won't stand in the fire), but fire scales great, so it's often much better than that.
 
 #### Frost Barrage
 
-1x40 frost is not good but 2x40 frost is. Leaving as-is.
+**No change**
+
+1x40 with frost for 2 mana is not good but 2x40 with frost is. Leaving as-is.
 
 #### Frostbolt
 
-This is underpowered but I'm afraid to change it because it affects a bunch of other effects (Coldstone, Frostmail, and so on).
+**40 -> 50 damage**
+
+Frostbolt is anemic. In theory it's 90 damage and easy to aim, but in practice Frost isn't actually worth 50 damage, especially at the beginning of the game when you're likely to take it. I don't want to change it much because a number of other effects cast Frostbolt, but a small change like this should be fine.
 
 #### Back Burner
 
-This feels too weak (leaving flames on your side is a big downside) but I'm not really sure. I'll have to take it more to find out.
+**No change**
+
+I rarely take this spell so I'm not sure if it's too weak or not. Leaving flames on your side is a big downside.
 
 ### Rarity 1
 
 #### Ice Spikes
 
-Ice Spikes is 60 damage plus 1 frost. The aiming gimmick is cool and fun, but it's a double-edged sword: If you dodge an attack fired down a row, your ice spikes will whiff. 
+**60 -> 120 damage**
+
+Ice Spikes is 60 damage plus 1 frost. The aiming gimmick is cool and fun, but it's a double-edged sword: If you dodge an attack fired down a row, your ice spikes will whiff.
+
+I'd rather not make this deal 2 frost because that feels more like Frost Barrage or Blizzard. Instead, I'll increase the damage by a lot.
 
 #### Thunderstorm
 
-Thunderstorm deals 50 damage per hit, 4x6 times, at rarity 1. There are 16 tiles, so this deals an average of 75 damage per tile. Indescriminate AoE is 75 damage per tile for 4 mana is very bad.
+**50 -> 100 damage**
 
-The first change is to increase the damage to 100. This makes the spell feel better thematically; it's it's a storm of Thunder spells. The second change is to increase it from 4x6 to 6x6. This puts the damage per tile at 225. This is significantly worse than the Calamity spell Fimbulveter but it's good enough to hurt.
+Thunderstorm deals 50 damage per hit, 4x6 times, at rarity 1. There are 16 tiles, so this deals an average of 75 damage per tile. At rarity 1, you shouldn't get much for a huge AOE, but 75 is just too low; the card looks horrible next to Cold Snap or Anubis.
+
+I'll start by doubling the damage to 100. This is good thematically because Thunder does 100 damage too. More buffs might be necessary.
 
 #### Twinferno
 
-If you aim it properly, Twinferno is 60 damage twice for 2 mana, with the possibility of doing more damage to other things nearby. This is a little low.
+**50 -> 60 damage**
+
+If you aim it properly, Twinferno is 50 damage twice for 2 mana, with the possibility of doing more damage to other things nearby. This is a little low, but it's not that bad, given the large AOE.
 
 ### Rarity 2
 
 #### Carpet Bomb
 
-40 damage in a wide path for 3 mana, with a downside. It leaves fire too but that's a wash, since it leaves a ton of fire in your own side of the field as well. This needs a big buff; I think a bunch of damage is the right approach. After all, you're carpet bombing the bad guys. Let's start with 200.
+**40 -> 200 damage**
+
+40 damage in a wide path for 3 mana, with a downside. It leaves fire too but that's a wash, since it leaves a ton of fire in your own side of the field as well. Plus, it makes you fragile.
+
+If this has a downside it should at least be a powerful effect. Let's start with 200 damage AOE for now.
 
 #### Hailstorm
+
+**10 -> 100 damage**
 
 Similarly to Thunderstorm, Hailstorm just doesn't do enough. 18 hits, each one doing 10 damage plus frost. Changing Hailstorm is tough because it needs to be distinct from Cold Snap, Blizzard and Fimbulveter, all of which are big AOE frost effects. I think the way to do that with Hailstorm is to increase the fixed damage it deals. 100 damage feels about right; counting the frost, this means it's 150 damage per hit, or around 170 damage overall.
 
 #### Ice Hockey
 
-I don't know how to evaluate this spell.
+**No change**
+
+I have no idea how to evaluate this spell.
 
 #### Wildfire
+
+**No change**
 
 This is a little expensive for what it is. In a crowded normal enemy fight it's basically Firestorm: hit 4 enemies, put fire on their tiles. In a boss fight it's a lot worse than that. I'll leave it as-is for now but I think could probably use a little love.
 
@@ -80,10 +110,14 @@ This is a little expensive for what it is. In a crowded normal enemy fight it's 
 
 #### Flamberge
 
+**100 -> 150 damage in the cone**
+
 It's a gimmick! 100 damage in a cone and fire everywhere for only 2 mana, but it's only good if you can hit something in the front row, or better yet, on your side of the field. Somebody who can pull this off regularly deserves more than 100 damage; let's increase it to 150 for now.
 
 ### Rarity 4
 
 #### EXPLOSION!
 
-I actually think EXPLOSION! isn't that far off from being viable, but it's not there yet. To start, let's tone it down to 2 seconds of charge, plus 2 seconds of end lag.
+**No change**
+
+I want to buff EXPLOSION! but I need to make sure reducing the start- and end-lag doesn't make animations go out of sync, so I haven't done it yet.

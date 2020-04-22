@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Spells>
+  <Spell itemID="Firewall">
+    <Stats animWarning="WarningDangerC" animObj="Firebolt" animBlast="Explosion1x1"
+      castSound="poof_smoke" shotSound="blast_tiny" setToGunPoint="None" timeToTravel="0.15"
+      bending="10"> </Stats>
+    <HitAllies>true</HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf>true</HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Firewall</Name>
+    <Tags>Player, PvP, Demo, Live</Tags>
+    <Action>Mortar</Action>
+    <Description></Description>
+    <Meta>Gain fragile. Leaves flames on hit. 50% chance to leave flames Can hit self.</Meta>
+    <Rarity>0</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>2</Mana>
+    <Damage>20</Damage>
+    <Shots>1</Shots>
+    <Tiles>0</Tiles>
+    <Location Shape="Column" Pattern="Reverse">HalfField</Location>
+    <TimeBetweenShots>0</TimeBetweenShots>
+    <ShotVelocity>0.05</ShotVelocity>
+    <ShotDuration>0.2</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0</CastDelay>
+    <BlastDuration>0.3</BlastDuration>
+    <WarningDuration>0.7</WarningDuration>
+    <DestroyOnHit></DestroyOnHit>
+    <TouchTile>Flame</TouchTile>
+  </Spell>
+
+  <Spell itemID="Frostbolt">
+    <Stats animCast="FrostboltCharge" animShot="FrostboltShot" castSound="ice_beam" shotSound=""
+      setToGunPoint="Both"></Stats>
+    <HitAllies></HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf></HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Frostbolt</Name>
+    <Tags>Player, Demo, Live, PvP</Tags>
+    <Action>Multishot</Action>
+    <Description></Description>
+    <Meta>Charge for 0.15s then fire a frostbolt</Meta>
+    <Rarity>0</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>1</Mana>
+    <Damage>50</Damage>
+    <Shots>1</Shots>
+    <Tiles>1</Tiles>
+    <Location>End</Location>
+    <TimeBetweenShots>0</TimeBetweenShots>
+    <ShotVelocity>800</ShotVelocity>
+    <ShotDuration>1</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0.15</CastDelay>
+    <CastDuration>0.15</CastDuration>
+    <DestroyOnHit>true</DestroyOnHit>
+    <OnHit amount="1">Frost</OnHit>
+  </Spell>
+
+  <Spell itemID="IceSpikes">
+    <Stats animWarning="WarningDangerC" animBlast="LurkerIceC" animShot="" castSound="mark_01"
+      shotSound="ice_crash_hi"></Stats>
+    <HitAllies></HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf></HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Ice Spikes</Name>
+    <Tags>Player, PvP</Tags>
+    <Action>SpikeTrail</Action>
+    <Description></Description>
+    <Meta>Summon spikes that follow player vertical position</Meta>
+    <Rarity>1</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>2</Mana>
+    <Damage>120</Damage>
+    <Shots>1</Shots>
+    <Tiles>0</Tiles>
+    <Location>Front</Location>
+    <TimeBetweenShots>0.3</TimeBetweenShots>
+    <ShotVelocity>0</ShotVelocity>
+    <ShotDuration>1.2</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0</CastDelay>
+    <BlastDuration>1.2</BlastDuration>
+    <WarningDuration>0.6</WarningDuration>
+    <DestroyOnHit>true</DestroyOnHit>
+    <Params lerpDirection="None" lerpPattern="None" lerpDelay="0"></Params>
+    <OnHit amount="1">Frost</OnHit>
+  </Spell>
+
+  <Spell itemID="StormThunder">
+    <Stats animBlast="Thunder" castSound="" shotSound="thunderclap_light" setToGunPoint="None"></Stats>
+    <HitAllies></HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf></HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Thunderstorm</Name>
+    <Tags>Player, Demo, Live</Tags>
+    <Action>Storm</Action>
+    <Description></Description>
+    <Meta>Rains down 5 waves of 8 thunderstrikes on random enemy tiles</Meta>
+    <Rarity>1</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>4</Mana>
+    <Damage>100</Damage>
+    <Shots>8</Shots>
+    <Tiles>1</Tiles>
+    <Location>RandOtherUnique</Location>
+    <TimeBetweenShots>0.05</TimeBetweenShots>
+    <ShotVelocity>0</ShotVelocity>
+    <ShotDuration>0.2</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0</CastDelay>
+    <BlastDuration>0</BlastDuration>
+    <DestroyOnHit></DestroyOnHit>
+    <Params numOfWaves="5" timeBetweenWaves="0.9"></Params>
+    <OnCast></OnCast>
+  </Spell>
+
+  <Spell itemID="Twinferno">
+    <Stats animBlast="Explosion3x3" animShot="" introSound="" shotSound="explosion_bump"
+      hitboxWidth="3" hitboxHeight="3" setToGunPoint="Vertical"></Stats>
+    <HitAllies></HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf></HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Twinferno</Name>
+    <Tags>Player, Demo, Live, PvP</Tags>
+    <Action>Multishot</Action>
+    <Description></Description>
+    <Meta>3x3 explosions on every other tile in front</Meta>
+    <Rarity>1</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>2</Mana>
+    <Damage>60</Damage>
+    <Shots>-1</Shots>
+    <Tiles>0</Tiles>
+    <Location Shape="Even">Current</Location>
+    <TimeBetweenShots>0.2</TimeBetweenShots>
+    <ShotVelocity>0</ShotVelocity>
+    <ShotDuration>0.25</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0.05</CastDelay>
+    <BlastDuration>0</BlastDuration>
+    <DestroyOnHit>false</DestroyOnHit>
+    <OnCast></OnCast>
+  </Spell>
+
+  <Spell itemID="StormIce">
+    <Stats animBlast="StormIceS" animShot="" shotSound="ice_beam" setToGunPoint="None"></Stats>
+    <HitAllies></HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf></HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Hailstorm</Name>
+    <Tags>Player, Demo, Live</Tags>
+    <Action>Storm</Action>
+    <Description></Description>
+    <Meta>Rains down 3 waves of 6 shots on random tiles</Meta>
+    <Rarity>2</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>4</Mana>
+    <Damage>100</Damage>
+    <Shots>6</Shots>
+    <Tiles>1</Tiles>
+    <Location>RandOtherUnique</Location>
+    <TimeBetweenShots>0.05</TimeBetweenShots>
+    <ShotVelocity>0</ShotVelocity>
+    <ShotDuration>0.2</ShotDuration>
+    <ShotDelay>0.1</ShotDelay>
+    <CastDelay>0</CastDelay>
+    <BlastDuration>0.5</BlastDuration>
+    <DestroyOnHit></DestroyOnHit>
+    <Params numOfWaves="3" timeBetweenWaves="0.7"></Params>
+    <OnCast></OnCast>
+    <OnHit>Frost</OnHit>
+  </Spell>
+
+  <Spell itemID="FlambergeExplosion">
+    <Stats animObj="" animBlast="FireSpinBlast" animShot="" introSound="explosion_pop" castSound=""
+      shotSound="" bending="0" timeToTravel="0"></Stats>
+    <HitAllies></HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf></HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>FlambergeExplosion</Name>
+    <Action>Mortar</Action>
+    <Description></Description>
+    <Meta>Shoots in a cone behind last target hit, flames</Meta>
+    <Brand></Brand>
+    <Damage>150</Damage>
+    <Shots>1</Shots>
+    <Tiles>15</Tiles>
+    <Location Shape="Cone">ParentSpellTargetHit</Location>
+    <TimeBetweenShots>1</TimeBetweenShots>
+    <ShotVelocity>0.01</ShotVelocity>
+    <ShotDuration>0.3</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0.2</CastDelay>
+    <BlastDuration>0.63</BlastDuration>
+    <DestroyOnHit></DestroyOnHit>
+    <TouchTile>Flame</TouchTile>
+  </Spell>
+
+</Spells>
