@@ -2,6 +2,10 @@
 
 This is a mod to adjust the spells available in One Step From Eden. I've noticed a lot of spells that seem to be way too weak, as well as a few that are outrageously strong. The goal of this mod is to make sure all spells are at least usable, and to tone down a few of the more ridiculous ones.
 
+# How to build
+
+Right now the build process is very simple and manual. Copy Spells.xml into the "Spell Balance" directory, as well as workshopIcon.png and WorkshopItemInfo.png. Then copy that into "Mods" in the OSFE directory to test it out.
+
 # General Principles
 
 Spells with higher rarity can be more powerful (though they don't have to be). It's okay, for example, that Fimbulveter is more useful than Blizzard.
