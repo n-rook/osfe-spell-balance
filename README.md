@@ -90,7 +90,7 @@ If you aim it properly, Twinferno is 50 damage twice for 2 mana, with the possib
 
 40 damage in a wide path for 3 mana, with a downside. It leaves fire too but that's a wash, since it leaves a ton of fire in your own side of the field as well. Plus, it makes you fragile.
 
-If this has a downside it should at least be a powerful effect. Let's start with 200 damage AOE for now.
+If this spell is saddled with multiple downsides it should at least be a powerful effect. Let's start with 200 damage for now.
 
 #### Hailstorm
 

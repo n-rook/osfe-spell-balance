@@ -149,6 +149,38 @@
     <OnCast></OnCast>
   </Spell>
 
+  <Spell itemID="CarpetBomb">
+    <Stats animWarning="WarningDangerC" animObj="Firebolt" animBlast="Explosion1x1"
+      castSound="poof_smoke" shotSound="blast_tiny" setToGunPoint="None" timeToTravel="0.7"
+      bending="120"> </Stats>
+    <HitAllies>true</HitAllies>
+    <HitEnemies>true</HitEnemies>
+    <HitSelf>true</HitSelf>
+    <HitStructures>true</HitStructures>
+    <Name>Carpet Bomb</Name>
+    <Tags>Player, PvP, Demo, Live</Tags>
+    <Action>Mortar</Action>
+    <Description></Description>
+    <Meta>Gain fragile. Leaves flames on hit. chance to leave flames Can hit self.</Meta>
+    <Rarity>2</Rarity>
+    <Brand>Anima</Brand>
+    <Mana>3</Mana>
+    <Damage>200</Damage>
+    <Shots>1</Shots>
+    <Tiles>0</Tiles>
+    <Location Shape="RowWide">Current</Location>
+    <TimeBetweenShots>0</TimeBetweenShots>
+    <ShotVelocity>0.1</ShotVelocity>
+    <ShotDuration>0.1</ShotDuration>
+    <ShotDelay></ShotDelay>
+    <CastDelay>0</CastDelay>
+    <BlastDuration>0.3</BlastDuration>
+    <WarningDuration>0.7</WarningDuration>
+    <DestroyOnHit></DestroyOnHit>
+    <OnCast amount="1" target="Self">Fragile</OnCast>
+    <TouchTile chance="0.33">Flame</TouchTile>
+  </Spell>
+
   <Spell itemID="StormIce">
     <Stats animBlast="StormIceS" animShot="" shotSound="ice_beam" setToGunPoint="None"></Stats>
     <HitAllies></HitAllies>
