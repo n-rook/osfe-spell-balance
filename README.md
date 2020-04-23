@@ -4,7 +4,7 @@ This is a mod to adjust the spells available in One Step From Eden. I've noticed
 
 # How to build
 
-Right now the build process is very simple and manual. Copy Spells.xml into the "Spell Balance" directory, as well as workshopIcon.png and WorkshopItemInfo.png. Then copy that into "Mods" in the OSFE directory to test it out.
+Right now the build process is very simple and manual. Create a new directory called "Spell Balance". Copy Spells.xml into this directory, as well as workshopIcon.png and WorkshopItemInfo.png. Then copy that into "Mods" in the OSFE directory to test it out.
 
 # General Principles
 
