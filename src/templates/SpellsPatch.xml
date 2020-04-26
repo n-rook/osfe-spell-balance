@@ -4,5 +4,15 @@
     <remove sel="Spells/Spell[@itemID='{{spell}}']" ws="after" />
   {% endfor %}
   
+  <!-- note: a regex looks for the itemID equals thingy pattern -->
   <replace sel="Spells/Spell[@itemID='Firewall']/Damage/text()">20</replace>
+  <replace sel="Spells/Spell[@itemID='Frostbolt']/Damage/text()">50</replace>
+  <replace sel="Spells/Spell[@itemID='IceSpikes']/Damage/text()">120</replace>
+  <replace sel="Spells/Spell[@itemID='StormThunder']/Damage/text()">100</replace>
+  <replace sel="Spells/Spell[@itemID='Twinferno']/Damage/text()">60</replace>
+  <replace sel="Spells/Spell[@itemID='CarpetBomb']/Damage/text()">200</replace>
+  <replace sel="Spells/Spell[@itemID='StormIce']/Damage/text()">100</replace>
+  <!-- TODO: fix flamberge description -->
+  <replace sel="Spells/Spell[@itemID='FlambergeExplosion']/Damage/text()">150</replace>
+
 </diff>
