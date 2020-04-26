@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  {% for spell in unused_spells %}
+    <remove sel="Spells/Spell[@itemID='{{spell}}']" ws="after" />
+  {% endfor %}
+  
+  <replace sel="Spells/Spell[@itemID='Firewall']/Damage/text()">20</replace>
+</diff>

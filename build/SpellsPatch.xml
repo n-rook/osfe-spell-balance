@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  
+    <remove sel="Spells/Spell[@itemID='CampaignGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChronoGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerMachine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerMachineHoming']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerMachineFrontAll']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerMachineDiagonal']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyStep']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyFrostStep']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyFrostStepX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='KunaiCatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AddKunai']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperGunX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Terraflare']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Terraform']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViGunX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViGunTop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViGunBack']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViGunFront']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViGunBot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViCharge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CampaignReflector']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='VGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TimeGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FreezeGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GodGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PoisonGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GodSniper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='UpgradeWrench']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='UpgradeWrenchStructureHit']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='UpgradeWrenchEnemyHit']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DismantleWrench']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AcidRain']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AirSlash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Align']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Amalgam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AmbientBurst']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Anubis']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BackBurner']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Backstab']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Beamcrystals']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BlackoutAlt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Blackout']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BlackoutSaffron']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BladeBayToss']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BladeRain']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Bladeskrieg']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BladeThrow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BladeCatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Blastcrystals']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BlessingOfSusano']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Blink']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BloodShield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BlueBullets']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Bombard']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BombToss']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Boomerang']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BoosterShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BoosterShotX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BowSnipe']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Breakout']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Brushfire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Caltrops']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CarpetBomb']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Castle']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChargeRing']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Circuit']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClawTraps']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ColdMedicine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ColdSnap']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Coldstone']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CollectRing']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Combust']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Corset']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CounterStrike']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Crossfire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CrossturretToss']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Cryokinesis']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Cynet']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DeckSlam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Detox']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Devour']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DiagBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DiamondRing']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DoubleTap']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EarthenArmor']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EarthPrayer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EarthWyrm']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EarthWyrmX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Echo']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EchoX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ember']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EmpowerRing']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Energizer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Entangle']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Entrench']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EternityCannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Excalibur']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ExcaliburSlash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Excavate']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Explosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ExplosionCharge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Fadeaway']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FateShield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Fimbulveter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Fissure']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FissureX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FissureY']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Flamberge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FlambergeExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FlatEarth']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Fling']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FlintShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Flurry']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Focus']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ForcePushDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ForcePushUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Forte']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Fracture']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FrostBarrage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Frostbite']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Frostbolt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Gambit']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Glaive']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Glassify']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Glitterbomb']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GlitterbombX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GlitterbombXY']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Guillotine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HealthCatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Hellfire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HiredGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Hockey']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HyperBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IceNeedle']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IceNeedleX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IceShield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IceSpikes']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Incline']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='InfinityBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Innervate']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IonCannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IronWill']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Jam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='JamSlam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='JamCannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='KineticWave']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Knife']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Kunai']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LastLetter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LastLetterX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LaserSolo']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LaserTriple']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Leech']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LifeSword']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LimitBreak']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LimitBreakX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MagicClaw']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ManaLattice']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ManaFusion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ManaCatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ManaSteal']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MatKunais']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Meditate']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Midnight']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Mine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minefield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minigun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MissileTow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MissMeShield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Monsoon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Northwind']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='OrbitalBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Pandemic']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PekayFire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Pinch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ping']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PoisonDart']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PoisonTail']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Pong']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PowerSaws']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Preload']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Prophecy']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Pull']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Pyroblast']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Rage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RageOldConcept']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ragnarok']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Reflector']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Resonate']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Rest']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Revenge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RingOfFire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RockCycle']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RockTomb']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Salamander']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Salvage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SapphireRing']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Scavenge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sequencer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SeraCannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SequencerShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShardToss']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shattersaw']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShattersawX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldCatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldsUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldThrow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldThrowX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldsUpExte']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shotgun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Showdown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sidewinder']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Skipper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SludgeBomb']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Smog']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SolarBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SolarCharge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SoulFire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SoulLink']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SpellShield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SpiritSword']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Stasis']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StasisX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SteelSkin']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StepFury']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StepPierce']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StepSlash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StormBlizzard']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StormFire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StormGlitter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StormIce']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StormSword']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StormThunder']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Strike']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumBeacon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumGrail']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumMonument']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumShieldgen']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumTurretgun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumTurretlaser']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumTurretsd']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SumWall']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sunshine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SuperMinigun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sustain']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sweeper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Swipe']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Switchbait']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SwordLine']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Thunder']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ThunderLight']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TileFire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TileFireX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TimeSlow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TimeStop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TractorBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Transfuse']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Tremor']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TriForce']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TriRag']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Trisect']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TriShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Tsunami']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Tundra']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Twinferno']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Twoxin']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Undertow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Unleash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Upwind']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Venoshock']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Viruspell']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Vivisection']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Volley']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Warpath']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='WarpRays']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Waterfall']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Whirl']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Wildfire']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Wobble']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='WobbleBack']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Wreath']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Zenith']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ZigZag']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Artillery']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Artillery2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Artillery3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Artillery4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AvengerShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AvengerShot2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AvengerShot3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='AvengerShot4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Beacon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Beamer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BeretX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BlastcrystalShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BeamcrystalShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BladeBayX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Bomberboi']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Bomberboi2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Bomberboi3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Bomberboi4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BomberboiPush']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BomberboiPushX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BombExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BombgunnerExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BombhorizonExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BombhorizonExplosionAlt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BomblightX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BossHealSelf']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BossHealShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BossHealShotHell']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='BossMercyHealShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Breakbeamer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Breakbeamer2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Breakbeamer3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Breakbeamer4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CampfireBurn']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CampfireHeal']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CampfireTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Carpenter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CarpenterX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChalHeatX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChalFireX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChalLocationX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChalSwordX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChaosDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChaosTeleport']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChargeAnim']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChargecannonShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChargecannonTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestcursedTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestcursedDeath']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestcursedLoot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestcursedShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestcursedShot2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestcursedShot3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChesthealTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChesthealShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestTimed']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestTimed1']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestTimed2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestTimed3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ChestTreasureTimed']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClearSelf']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClearSelfDelayed']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClearSelfBeingDelayed']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClearSelfDelayed3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClearSelfDelayed4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ClearSelfDelayed5']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CloseShop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ColossusDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ColossusUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ColossusShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Cornet']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CrackCrossSmall']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CrackSurrounding']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Crosser']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CrosserBladeRain']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Crusher']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='CrusherShockwave']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DancerTrinityCheck']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DancerTrinityCheck2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DancerTrinityShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DancerTrinityShot2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DancerTrinityStrike']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkStorm']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkMeteor']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkMeteorFinal']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkDrain']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkZigZag']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkSweeper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkUltima']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkUltimaWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkRagnarok']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkBreakerBall']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkExecution']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkHeaven']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkWave']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkConverge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkConvergeSwirl']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkConvergeCross']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkConvergeX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DarkConvergeWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Death']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DeathExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DeathFlame']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Decayer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Decayer2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Decayer3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Decayer4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Default']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DefaultFlameGen']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Diagon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DiagonDownLeft']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DiagonUpRight']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='DiagonDownRight']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EggHatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EggTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Elecbug']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Entangler']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Entangler2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Entangler3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Entangler4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='EntanglerMineH']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ExploderX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ExploderTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FakeDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Firechild']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Firechild2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Firechild3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Firechild4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Firepather']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FirepatherX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FixCrossSmall']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FlakJacketX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FlechetteX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FragmentX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='FrostExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GateSummonSweeper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GateSummonCrosser']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GateSummonXer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GateSummonBeamer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GateSummonCannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Gatesweeper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Gatecrosser']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Gatexer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Gatecannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Gatebeamer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ghost']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ghost2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ghost3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Ghost4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GrailX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GrailTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerCampfireX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerRush']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerBombToss']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerMinefield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerCircuit']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerSkyStrike']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerExecuteBomb']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerExecuteFlame']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerFlak']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerPush']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerBulletTime']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerAssistF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='GunnerMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelAssistXF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelSummonTurrets']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelSummonHex']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelSlowmissiles']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelKillSlowmissiles']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelBlockTrap']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelTrapWaveBig']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelTrapWave']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelSummonSideburn']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelSummonBlastShields']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelSummonBeamCrystals']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelShockwave']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelEmpower']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HazelMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Hailcaster']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Hailcaster2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Hailcaster3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Hailcaster4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Healdon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Healdon2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Healdon3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Healdon4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HealdonX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitCritical']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitExplosion1x1']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitExplosionPyroblast']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitFlame']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitSeekerX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitSplash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HitThunder']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageEvil']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageEvilRevenge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageEvilStartup']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageItemDrop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageThanks']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostagehealShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostagemoneyItemDrop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageSaved']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='HostageKilled']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icefactory']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icefactory2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icefactory3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icefactory4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icerunt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icelauncher']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icelauncher2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icelauncher3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Icelauncher4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='IceMelt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Jellygen']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Jellygen2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Jellygen3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Jellygen4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LaserPointerX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Liger']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Liger2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Liger3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Liger4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Lurker']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Lurker2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Lurker3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Lurker4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LurkerOmega']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Luxcannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Luxcannon2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Luxcannon3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Luxcannon4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='LuxcannonX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Machgunner']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Machgunner2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Machgunner3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Machgunner4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ManastructShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Manticore']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Manticore2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Manticore3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Manticore4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MaxHPMelt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MicroMissilesX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minelayer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minelayer2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minelayer3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minelayer4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minfrost']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minfrost2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minfrost3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Minfrost4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MineDelayedExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MineVisual']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MiracleX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithfireX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithgunOld']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithgunX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithgunX2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithgunX3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithgunX4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithiceX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithiceX2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithiceX3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithiceX4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonolithTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='MonumentDeath']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Obeamer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Obeamer2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Obeamer3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Obeamer4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetDragon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetFoxX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetKitty']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetLigerX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetPuppy']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetSoulGunX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetSoulGunCatchX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PetTurtleX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PlushieShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='PortaldarkDR']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='QuarantineHatch']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Quarreling']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Rapidcannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ReacterShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Reaper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Reaper2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Reaper3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Reaper4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ReflectBuffVisual']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ReflectShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ReflectShotTall']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RemoveOccupation']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaArtillery']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaBoomerang']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaBeamDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaBeamUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaBeamBot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaBeamTop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaBigShield']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaPull']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaReflect']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaReflectWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaSlam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaSummon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaThrow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevaMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Revolver']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Revolver2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Revolver3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Revolver4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='RevolverX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Runt']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronAssistF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronSaveAssist']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronOMGGun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronSummonPlushie']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronTriStar']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronPull']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronShotgun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronAutoRag']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SaffronMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyBlizzard']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SelicyMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerapileDeath']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerapileTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifTileChange']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifCircuitWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifCircuit']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifLightbombToss']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifLightbombPath']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifWave']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifSwordRows']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifSwordFlurry']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifGlitterStorm']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifSpellEjector']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifSweeper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifOffSwordsTop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifOffSwordsBot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifExcalibur']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifExcaliburSlash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifExecution']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifGateExecution']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifTimeReverse']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifDarkPierce']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifDarkPierceEffect']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifBurn']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SerifPush']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SatelliteX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shardshooter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shardshooter2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shardshooter3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shardshooter4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShardExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShardTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shieldgenerator']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shieldon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shieldon2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shieldon3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Shieldon4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShieldonX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoCampfireX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoAssistF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoSteal']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoStealWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoLayTraps']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoShuffler']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoShufflerWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoPushLeft']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoPushRight']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoPushUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoPushDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoPush']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoTeleshotX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoTeleshotRight']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoTeleshotDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoTeleshot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoTeleshotUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoCrossshot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoCrossshotFull']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShisoFan']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperDropMoney']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperDeadspot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperClockwiseBlast']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperWalls']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperShards']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperMeteor']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperShardExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperFinalBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperFinalWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperThrow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperBoomerang']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperBeamDown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperBeamUp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperPull']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperSlam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperBlaster']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperSummon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperFinale']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperPattern']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperPatternShort']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperPush']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperSmash']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperGiveDark']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperDarkFlow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperItemDrop']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperExecute']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ShopkeeperExecuteX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SiloMissile']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Slasher']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Slasher2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Slasher3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Slasher4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Slowmissile']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SlowmissileCharge']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SlowmissileExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SlowmissileSelfDestruct']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sniper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sniper2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sniper3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sniper4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sparrowhawk']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SparrowhawkRow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spearper']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spearper2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spearper3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spearper4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SpecialAnim']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spitter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spitter2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spitter3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Spitter4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SpitterX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sprout']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sproutcannon']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sprouter']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sprouter2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sprouter3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Sprouter4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StaticEffect']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='StatueshieldCLR']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='SugarGlassX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TeleportVisual']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraFollow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraBlaster']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraPattern']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraOrbitals']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraRevolver']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraDiamond']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraExecute']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TerraMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TileExplosion']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TileBreakAll']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TileFixAll']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TinyShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ThrowAnim']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Tracker']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turretcross']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turretgun']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turrethazel']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turrethazelex']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turretburndown']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turretlaser']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='TurretsdX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Turretsword']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='UnicornBombX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='UnoccupyTile']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViAssistX']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViNoteBeam']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViNoteShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSheetShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViNoteHeavenWarning']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViNoteHeaven']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViFollow']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViFollowHorizontal']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViPathPunish']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViPathPunishCoOp']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSummonSpeakers']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSpeakerRing']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSpeakerCone']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSpeakerConeVisual']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSpeakerCross']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViSpeakerCrossVisual']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViExecute']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViMessage']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViAssistF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ViMessageF']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='VolcanoShot']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Yami']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ZombeggTimer']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Zombee']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Zombee2']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Zombee3']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='Zombee4']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ZombeeRes']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ZombeggRes']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ZombeggClear']" ws="after" />
+  
+    <remove sel="Spells/Spell[@itemID='ZombeggDeath']" ws="after" />
+  
+  
+  <replace sel="Spells/Spell[@itemID='Firewall']/Damage/text()">20</replace>
+</diff>
