@@ -13,6 +13,18 @@
   <replace sel="Spells/Spell[@itemID='CarpetBomb']/Damage/text()">200</replace>
   <replace sel="Spells/Spell[@itemID='StormIce']/Damage/text()">100</replace>
   <!-- TODO: fix flamberge description -->
+  <!-- known issue: it looks like turning <Brand></Brand> into <Brand /> causes problems -->
   <replace sel="Spells/Spell[@itemID='FlambergeExplosion']/Damage/text()">150</replace>
+
+  <replace sel="Spells/Spell[@itemID='TriShot']/Damage/text()">70</replace>
+  <replace sel="Spells/Spell[@itemID='Incline']/Damage/text()">50</replace>
+  
+  <replace sel="Spells/Spell[@itemID='LimitBreak']/Damage/text()">15</replace>
+  <replace sel="Spells/Spell[@itemID='LimitBreak']/Shots/text()">25</replace>
+  <replace sel="Spells/Spell[@itemID='LimitBreak']/TimeBetweenShots/text()">0.15</replace>
+  <replace sel="Spells/Spell[@itemID='LimitBreakX']/Shots/text()">25</replace>
+  <replace sel="Spells/Spell[@itemID='LimitBreakX']/TimeBetweenShots/text()">0.15</replace>
+
+  <replace sel="Spells/Spell[@itemID='Ping']/Damage/text()">50</replace>
 
 </diff>
