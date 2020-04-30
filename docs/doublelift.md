@@ -7,6 +7,7 @@ Ah, the inexplicably named Doublelift. Known for jam cards and cards with hugely
 ### Ambient Burst
 
 **Damage: 5 -> 10**
+
 **Time between shots: 0.03 -> 0.02**
 
 Ambient Burst scales slowly and locks you in place for awhile if you actually have good scaling with it. Even 20 spells is just 100 damage for 3 mana, which is not good (although it does scale well with Spell Power). Lowering the time between shots makes you less vulnerable if you manage to charge up a big one.

@@ -39,7 +39,9 @@ I need to get a better understanding of how Sequencer works or feels before I tr
 ### Limit Break
 
 **10 -> 15 damage**
+
 **40 -> 25 shots**
+
 **0.1 -> 0.15 time between shots**
 
 Limit break scales in a lot of different ways.
