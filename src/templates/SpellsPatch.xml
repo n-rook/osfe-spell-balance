@@ -27,4 +27,13 @@
 
   <replace sel="Spells/Spell[@itemID='Ping']/Damage/text()">50</replace>
 
+  <replace sel="Spells/Spell[@itemID='AmbientBurst']/Damage/text()">10</replace>
+  <replace sel="Spells/Spell[@itemID='AmbientBurst']/TimeBetweenShots/text()">0.02</replace>
+
+  <replace sel="Spells/Spell[@itemID='Switchbait']/Mana/text()">4</replace>
+
+  <replace sel="Spells/Spell[@itemID='Gambit']/Mana/text()">3</replace>
+  <replace sel="Spells/Spell[@itemID='Gambit']/Damage/text()">50</replace>
+  
+  <replace sel="Spells/Spell[@itemID='Preload']/Damage/text()">80</replace>
 </diff>

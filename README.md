@@ -28,3 +28,4 @@ Piercing attacks down a single line are very useful. Bow Snipe costs 4 mana and 
 
 * [Anima](docs/anima.md)
 * [Convergence](docs/convergence.md)
+* [Doublelift](docs/doublelift.md)
