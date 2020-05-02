@@ -12,8 +12,8 @@
   <replace sel="Spells/Spell[@itemID='Twinferno']/Damage/text()">60</replace>
   <replace sel="Spells/Spell[@itemID='CarpetBomb']/Damage/text()">200</replace>
   <replace sel="Spells/Spell[@itemID='StormIce']/Damage/text()">100</replace>
-  <!-- TODO: fix flamberge description -->
-  <!-- known issue: it looks like turning <Brand></Brand> into <Brand /> causes problems -->
+  
+  <replace sel="Spells/Spell[@itemID='Flamberge']/Description"><Description>Deal 150 dmg in a cone of ef.Flames behind target</Description></replace>
   <replace sel="Spells/Spell[@itemID='FlambergeExplosion']/Damage/text()">150</replace>
 
   <replace sel="Spells/Spell[@itemID='TriShot']/Damage/text()">70</replace>
