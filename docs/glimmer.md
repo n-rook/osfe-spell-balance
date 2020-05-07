@@ -16,11 +16,9 @@ Looking at the numbers Diag Beam is not very good; 100 damage in a weird, hard-t
 
 ### Energizer
 
-**Damage: 90 -> 120**
+**No change**
 
-150 damage for 2 mana would be enough to be good. To get that, you need to cast Energizer 5 times, which is more than you can reasonably expect in one fight. 120 is a little high, but let's see how it feels.
-
-I was considering something like Damage 60, +60 on cast, but that's rather far afield of the base game's spell.
+The famously confusing Energizer buffs itself _before_ attacking, rather than after. This means your first attack does 120, the second does 150, and the third does 180. 150 damage for 2 mana is decent, and you get that on average once you've done three attacks, so it's fine for now.
 
 ### Shattersaw
 

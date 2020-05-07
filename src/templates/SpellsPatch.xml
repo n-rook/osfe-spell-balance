@@ -38,7 +38,6 @@
   <replace sel="Spells/Spell[@itemID='Preload']/Damage/text()">80</replace>
 
   <replace sel="Spells/Spell[@itemID='Breakout']/Damage/text()">150</replace>
-  <replace sel="Spells/Spell[@itemID='Energizer']/Damage/text()">120</replace>
   <replace sel="Spells/Spell[@itemID='Shattersaw']/Damage/text()">40</replace>
   <replace sel="Spells/Spell[@itemID='ShattersawX']/Damage/text()">80</replace>
   <replace sel="Spells/Spell[@itemID='Circuit']/Damage/text()">60</replace>
