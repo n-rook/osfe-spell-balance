@@ -101,3 +101,9 @@ It's a gimmick! 100 damage in a cone and fire everywhere for only 2 mana, but it
 **No change**
 
 I want to buff EXPLOSION! but I need to make sure reducing the start- and end-lag doesn't make animations go out of sync, so I haven't done it yet.
+
+### Fimbulveter
+
+**No change**
+
+Fimbulveter is extremely strong right now, almost trivializing many hallway fights. But it is a Calamity spell. I'm watching it but I think it's fine for now.

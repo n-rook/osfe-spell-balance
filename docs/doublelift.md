@@ -26,7 +26,7 @@ Jam Cannon is much worse than Jam Slam. It locks you in place and it's inconsist
 
 **No changes**
 
-Fling is of marginal value; it's hard to use effectively, and it requires an extra step of thought to consider "should I really consume this spell?" every time you cast it. But it does let you save a lot of mana and get rid of cards that aren't good in a fight. No change for now, but I'm considering kicking it down to 0 mana.
+Fling allows you to get a discount on expensive spells in return for dropping them. It's oft-maligned but useful in almost any large deck. No changes.
 
 ### Switchbait
 
@@ -39,6 +39,8 @@ If you have a 250-damage card like Mine or Bow Snipe in the other slot, Switchba
 Switchbait gets even better if you have unusually strong spells like Explosion! or Ragnarok, but that's okay; if you have the right deck Switchbait should do lots of damage. I don't actually care about Solo Saffron Switchbait / Ragnarok decks; Solo is very strong anyway and I'd rather keep Switchbait usable for the rest of the cast.
 
 I'm not sure how strong Switchbait is with its cost doubled, so I'll have to keep an eye on it, but I think it's still playable in some decks.
+
+I'd like to give Switchbait Backfire, but this doesn't actually work as expected: the second shot does no damage.
 
 ### Viruspell
 
@@ -73,7 +75,7 @@ Another alternative would be to make the shuffle time decrease more significant,
 
 **No changes**
 
-Time Stop is often not any better than Time Slow, so it might need to be improved a bit, but I'm not entirely sure at this point.
+Time Stop is often not any better than Time Slow, so it might need to be improved a bit.
 
 ## Rarity 4
 
@@ -81,4 +83,4 @@ Time Stop is often not any better than Time Slow, so it might need to be improve
 
 **No changes**
 
-To be honest, I've never cast Midnight, and it's such a strange effect that it's hard to evaluate. Stay tuned.
+Midnight is difficult to evaluate. The mana cost is huge but doesn't really affect its power much, since you aren't casting many spells while it's going off anyway. I think it's too weak, but I'm not sure the right approach to strengthen it.
